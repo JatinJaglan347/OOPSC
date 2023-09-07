@@ -1,0 +1,2 @@
+This line will get written inside to my file 
+AThis will also get written to the file.
